@@ -65,9 +65,13 @@ A interface está dividida em cinco áreas principais.
 
 ### 1. Dashboard
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0c51a8c8-44cf-4f34-98c4-439fae98437d" />
+
 A página inicial apresenta indicadores calculados a partir dos dados retornados pela API, incluindo quantidades de estabelecimentos, áreas acessíveis, barreiras e cidades cadastradas. Também exibe informações sobre registros e contribuições recentes.
 
 ### 2. Explorar locais
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3e4a47fb-97bc-40de-8e1b-2e742df835f8" />
 
 Permite navegar entre **estabelecimentos**, **áreas acessíveis** e **barreiras urbanas**. A tela oferece:
 
@@ -81,6 +85,8 @@ Os filtros são aplicados no próprio React, sobre os dados carregados da API. A
 
 ### 3. Contribuir
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ec81b3a-0927-4e09-a2e9-3370874a4a4d" />
+
 Reúne formulários para participação da comunidade, incluindo:
 
 - Cadastro de estabelecimentos e áreas acessíveis;
@@ -93,6 +99,8 @@ Os dados informados são enviados à API e passam pelas validações implementad
 
 ### 4. Gerenciar dados
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ae7b6448-152d-4b8f-93f5-f79ca379cb25" />
+
 Painel de demonstração das operações **GET, POST, PUT e DELETE** das 12 entidades utilizadas pelo sistema.
 
 Possui listagens, pesquisa, paginação, formulários de cadastro e edição, visualização de detalhes e confirmação antes de exclusões. Também permite acionar a análise de relatos de resolução pendentes.
@@ -100,6 +108,8 @@ Possui listagens, pesquisa, paginação, formulários de cadastro e edição, vi
 > **Observação:** essa área foi criada para demonstrar os recursos da API no contexto acadêmico. Como o backend ainda não tem autenticação, as operações utilizam dados reais do banco e não devem ser tratadas como um painel administrativo seguro para produção.
 
 ### 5. Sobre o projeto
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/95f758cc-c2c5-45e7-8643-46ca54d895ca" />
 
 Apresenta a proposta do AcessoJá, seu contexto CitizenTech e as principais tecnologias que fazem parte da solução.
 
