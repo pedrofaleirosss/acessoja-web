@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://acessoja-api.onrender.com/:path*"
+    }
+  ]
+}
